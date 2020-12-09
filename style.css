@@ -1,5 +1,5 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a {
@@ -18,6 +18,11 @@ a:active {
   background-color: black;
 }
 
-a:visited {
-  background-color: #ccc;
+h1 {
+  margin-bottom: 1em;
+}
+
+.link-button {
+  display: inline-block;
+  margin: 0.5em 0;
 }
